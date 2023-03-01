@@ -10,4 +10,7 @@ export const Div = styled.div`
 export const Titulo = styled.h1`
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: #ff4400;
+    :hover{
+        color:black;
+    }
 `
